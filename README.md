@@ -1,7 +1,7 @@
 <h1>Understanding Nurse Attrition: An Analysis Retention Strategies</h1>
 
 <h2>Description</h2>
-​The objective of this project is to deliver a comprehensive analysis of nurse attrition within a healthcare organization. Utilizing healthcare analytics tools, the project aims to examine relevant data to identify trends and key factors contributing to nurse turnover. Based on these insights, the project will propose evidence-based strategies to enhance nurse retention, thereby improving organizational stability and patient care quality.
+The project aims to analyze nurse attrition trends within a healthcare organization, identify key factors contributing to turnover, and propose data-driven retention strategies to enhance nurse retention. This approach is crucial, as recent studies indicate that nearly one in five registered nurses left their organization between 2022 and 2023, with disengaged nurses being 2.2 times more likely to leave compared to their highly engaged counterparts. By understanding the underlying causes of nurse turnover and implementing targeted retention strategies, healthcare organizations can improve staff satisfaction and reduce turnover rates.​
 <br />
 
 <h2>Project Details:</h2>
