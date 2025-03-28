@@ -7,21 +7,16 @@ The project aims to analyze nurse attrition trends within a healthcare organizat
 <h2>Project Details:</h2>
 
 <h3>Interpretations and Findings:</h3>
-
 <p>The analysis reveals that the turnover for nurses is significantly influenced by overtime, job satisfaction, department, and tenure. Nurses working overtime display a 29% attrition rate compared to those who do not (5%). This trend is prominent in the Cardiology and Maternity departments, where attrition spikes to 31% with overtime. Furthermore, newer nurses within their first two years are at the highest risk of leaving, with turnover rates peaking in the first year. Job satisfaction also plays a major role—nurses with low satisfaction scores (1 or 2) show double the turnover rate compared to those with higher satisfaction (score 4). Lastly, lower monthly income correlates with increased attrition, suggesting financial concerns are an additional factor.</p>
 
+
 <h3>Recommendations & Next Steps</h3>
-
-
 <b>To address the identified drivers of attrition, the following actionable recommendations are proposed:</b>
-- <p>Reduce Overtime: Restructure shifts and improve scheduling to minimize burnout.</p>
-- <p>Focus on Early-Tenure Employees: Create onboarding, mentorship, and early engagement programs.</p>
-- <p>Enhance Job Satisfaction: Offer regular feedback, career growth opportunities, and supportive leadership.</p>
-- <p>Review Compensation Structure: Evaluate and adjust salaries to remain competitive and reduce financial stress.</p>
-- <p>Department-Specific Strategies: Tailor retention initiatives for high-risk areas like Cardiology and Maternity.</p>
-
-<b>3. Conclusion</b>
-- <p> By combining immediate process improvements with long-term strategic planning, hospitals can effectively reduce LOS in Internal Medicine while maintaining high-quality patient care. A data-driven approach focusing on efficient discharge planning, proactive interventions, and resource optimization will ensure better patient outcomes and improved hospital efficiency. </p>
+- <p>1. Reduce Overtime: Restructure shifts and improve scheduling to minimize burnout.</p>
+- <p>2. Focus on Early-Tenure Nurses: Create onboarding, mentorship, and early engagement programs.</p>
+- <p>3. Enhance Job Satisfaction: Offer regular feedback, career growth opportunities, and supportive leadership.</p>
+- <p>4. Review Compensation Structure: Evaluate and adjust salaries to remain competitive and reduce financial stress.</p>
+- <p>5. Department-Specific Strategies: Tailor retention initiatives for high-risk areas like Cardiology and Maternity.</p>
 
 
 <h2>Dashboard Preview:</h2>
