@@ -36,7 +36,11 @@ The project aims to analyze nurse attrition trends within a healthcare organizat
 
 <h2>Dashboard Preview:</h2>
 <p align="center"><br/>
-<img src="https://i.imgur.com/HIIk6Yo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0GzH8b4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center"><br/>
+<img src="https://i.imgur.com/ugvYTAp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h2>Demonstrations:</h2>
