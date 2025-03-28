@@ -8,9 +8,7 @@ The project aims to analyze nurse attrition trends within a healthcare organizat
 
 <h3>Interpretations and Findings:</h3>
 
-
-<b>1. Why is Internal Medicine LOS Higher Than General Surgery?</b>
-<p>General Surgery patients typically follow structured recovery protocols, enabling early discharges after procedures. In contrast, Internal Medicine patients often present with chronic or complex conditions, requiring longer hospital stays for comprehensive management. The higher LOS in Internal Medicine DRGs, such as sepsis and respiratory illnesses, aligns with conditions that demand extended monitoring and treatment to ensure stability before discharge.</p>
+<p>The analysis reveals that the turnover for nurses is significantly influenced by overtime, job satisfaction, department, and tenure. Nurses working overtime display a 29% attrition rate compared to those who do not (5%). This trend is prominent in the Cardiology and Maternity departments, where attrition spikes to 31% with overtime. Furthermore, newer nurses within their first two years are at the highest risk of leaving, with turnover rates peaking in the first year. Job satisfaction also plays a major role—nurses with low satisfaction scores (1 or 2) show double the turnover rate compared to those with higher satisfaction (score 4). Lastly, lower monthly income correlates with increased attrition, suggesting financial concerns are an additional factor.</p>
 
 
 <b>2. External Factors Affecting LOS</b>
