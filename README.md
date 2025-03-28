@@ -12,11 +12,11 @@ The project aims to analyze nurse attrition trends within a healthcare organizat
 
 <h3>Recommendations & Next Steps</h3>
 <b>To address the identified drivers of attrition, the following actionable recommendations are proposed:</b>
-<p> - 1. Reduce Overtime: Restructure shifts and improve scheduling to minimize burnout.</p>
-<p> - 2. Focus on Early-Tenure Nurses: Create onboarding, mentorship, and early engagement programs.</p>
-<p> - 3. Enhance Job Satisfaction: Offer regular feedback, career growth opportunities, and supportive leadership.</p>
-<p> - 4. Review Compensation Structure: Evaluate and adjust salaries to remain competitive and reduce financial stress.</p>
-<p> - 5. Department-Specific Strategies: Tailor retention initiatives for high-risk areas like Cardiology and Maternity.</p>
+<p>1. Reduce Overtime: Restructure shifts and improve scheduling to minimize burnout.</p>
+<p>2. Focus on Early-Tenure Nurses: Create onboarding, mentorship, and early engagement programs.</p>
+<p>3. Enhance Job Satisfaction: Offer regular feedback, career growth opportunities, and supportive leadership.</p>
+<p>4. Review Compensation Structure: Evaluate and adjust salaries to remain competitive and reduce financial stress.</p>
+<p>5. Department-Specific Strategies: Tailor retention initiatives for high-risk areas like Cardiology and Maternity.</p>
 
 
 <h2>Dashboard Preview:</h2>
