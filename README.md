@@ -10,23 +10,15 @@ The project aims to analyze nurse attrition trends within a healthcare organizat
 
 <p>The analysis reveals that the turnover for nurses is significantly influenced by overtime, job satisfaction, department, and tenure. Nurses working overtime display a 29% attrition rate compared to those who do not (5%). This trend is prominent in the Cardiology and Maternity departments, where attrition spikes to 31% with overtime. Furthermore, newer nurses within their first two years are at the highest risk of leaving, with turnover rates peaking in the first year. Job satisfaction also plays a major role—nurses with low satisfaction scores (1 or 2) show double the turnover rate compared to those with higher satisfaction (score 4). Lastly, lower monthly income correlates with increased attrition, suggesting financial concerns are an additional factor.</p>
 
-
-<b>2. External Factors Affecting LOS</b>
-<p>Several external factors influence Length of Stay (LOS) in Internal Medicine. Patient complexity plays a major role, as those with heart failure, pneumonia, or sepsis often require prolonged care. Additionally, hospital resources, including ICU bed availability, specialist access, and discharge planning efficiency, directly impact LOS. Insurance and post-discharge planning delays, such as waiting for rehabilitation facility approvals, skilled nursing placements, or home care arrangements, can further extend hospitalization beyond the necessary medical care period.
-</p>
-
 <h3>Recommendations & Next Steps</h3>
 
 
-<b>1. Short-Term Strategies (Immediate Impact)</b>
-- <p>Improve discharge planning by reducing delays in rehab placements, skilled nursing transfers, and home care coordination to ensure timely patient transitions.</p>
-- <p>Streamline specialist consults to avoid unnecessary inpatient days waiting for assessments.</p>
-- <p></p>Utilize step-down units efficiently to free up higher-acuity beds for critical patients.</p>
-
-<b>2. Long-Term Strategies (Sustained Improvement)</b>
-- <p>Identify Diagnosis-Related Groups (DRGs) with the highest LOS, such as sepsis, respiratory infections, and intracranial hemorrhage, and develop targeted interventions.</p>
-- <p> Implement early intervention programs to proactively manage high-risk patients and prevent prolonged hospital stays.</p>
-- <p>Enhance hospital resource allocation, including staffing adjustments, ICU bed management, and technology-driven workflow improvements.</p>
+<b>To address the identified drivers of attrition, the following actionable recommendations are proposed:</b>
+- <p>Reduce Overtime: Restructure shifts and improve scheduling to minimize burnout.</p>
+- <p>Focus on Early-Tenure Employees: Create onboarding, mentorship, and early engagement programs.</p>
+- <p>Enhance Job Satisfaction: Offer regular feedback, career growth opportunities, and supportive leadership.</p>
+- <p>Review Compensation Structure: Evaluate and adjust salaries to remain competitive and reduce financial stress.</p>
+- <p>Department-Specific Strategies: Tailor retention initiatives for high-risk areas like Cardiology and Maternity.</p>
 
 <b>3. Conclusion</b>
 - <p> By combining immediate process improvements with long-term strategic planning, hospitals can effectively reduce LOS in Internal Medicine while maintaining high-quality patient care. A data-driven approach focusing on efficient discharge planning, proactive interventions, and resource optimization will ensure better patient outcomes and improved hospital efficiency. </p>
